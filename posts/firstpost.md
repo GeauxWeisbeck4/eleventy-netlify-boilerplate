@@ -1,31 +1,18 @@
 ---
-title: This is the first example post
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
-date: 2019-01-01T00:00:00.000Z
-author: John Appleseed
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: Version 2 of andrewweisbeck.blog
+metaDescription: Learn more about my personal blog website, version two!
+date: 2022-10-16T09:00:00.000Z
+author: Andrew Weisbeck
+summary: Version 2 of andrewweisbeck.blog and upcoming featuers and plans
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - webdev
+  - life
 ---
-Leverage agile blockchain frameworks to provide a robust blockchain synopsis for high level blockchain overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The first version of my personal blog site, [andrewweisbeck.blog](https://andrewweisbeck.blog), wasn't really publicized much by myself or others. I felt that my writing was maybe "too personal to share with the masses" - stupid excuse and wrong.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The real answer is that I was too afraid of sharing my writing with the fears of somebody saying "YOU SUCK!" or that it might prevent me from getting a job. That hasn't happened either really so what's the excuse now? There is none!
 
-## Section Header
+## What to expect from Version 2
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Version 2 of andrewweisbeck.blog will have a much more elegant style and also will be a continual work in progress as far as developing it goes. I plan to have themed templates that match certain seasons, holidays, and more! I want to keep the blog fun and alive to keep the readers engaged and entertained!
 
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.

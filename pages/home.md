@@ -1,20 +1,17 @@
 ---
 layout: layouts/home.njk
 title: Home
-date: 2016-01-01T00:00:00.000Z
+date: 2022-10-16T07:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Welcome to My Personal Blog
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.dev), with deployment to [Netlify](https://www.netlify.com).
+This is the official andrewweisbeck.blog - it's basically my personal blog that I post daily rants, research and other fun things I like to write about like psychology, business, sports and computer science. I am a very curious human and love to learn, so you will often catch my blog posts about things I'm currently learning or curious about.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+If you have any questions or want to suggest a topic, collaborate, or just say hi, you can go to my contact page and fill out the form and I will get back to you at my earliest convenience.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+## Featured Post
 
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
