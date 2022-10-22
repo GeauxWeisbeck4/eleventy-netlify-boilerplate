@@ -1,5 +1,5 @@
 ---
-title: "Day 3: Coding and serving bacon at the NC State Fair"
+title: "Day 2: Coding and serving bacon at the NC State Fair"
 date: 2022-10-22T08:58:07.166Z
 author: Andrew Weisbeck
 summary: "\"Y'all smell like corndogs!"
