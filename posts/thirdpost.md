@@ -7,10 +7,6 @@ tags:
   - dailydev
   - life
 ---
-
-
-
-
 ![bacon wrapped corn dogs](https://studio5.ksl.com/wp-content/uploads/2022/06/corndogs-2-740x441.jpg "That's a corndog")
 
 "﻿Y'all smell like corndogs. Roll Tide!". The overly obese  Alabama fan said as he walked away from a tent where he had just snagged a bowl of gumbo. "I don't smell like corn dogs - why'd he say we smelt like corndogs?" I asked 'Tiger Mike', my newly found tailgating buddy. I wasn't sure if people started calling him that because I did, or if he was serious when he told me that was his swinger party name. 
@@ -22,3 +18,9 @@ tags:
 I﻿ also was drunk for the next two days after that. Best night of my life. 
 
 ### W﻿hat's the point of this story?
+
+I﻿ don't know if there is one - I just had a very warm memory come up while writing this and preparing to go to the state fair and serve fried bacon to a bunch of fatally obese Americans. SEC fans always tell Tiger fans they smell like corndogs, because when LSU rolls into town, it's like a giant carnival just implanted itself on your home turf, and SEC fans find that offensive. People form different schools just don't get a long - thats a a whole different story. 
+
+I﻿'m just smiling right now thinking of simpler times when I got to watch LSU and Bama take each other on and smelling like corndogs because I was an LSU fan and not because I'm cooking bacon for a state fair. 
+
+I﻿'m tired and need to go to work now. Thanks for reading this pointless entry :)
