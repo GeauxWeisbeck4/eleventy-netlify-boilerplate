@@ -1,11 +1,11 @@
 ---
-title: This is the third example post which has a slightly longer title than the others
-date: 2020-01-01
-author: Jane Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: "Day 3: Coding and serving bacon at the NC State Fair"
+date: 2022-10-22T08:58:07.166Z
+author: Andrew Weisbeck
+summary: "\"Y'all smell like corndogs!"
 tags:
-  - tech
-  - politics
+  - dailydev
+  - ""
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
