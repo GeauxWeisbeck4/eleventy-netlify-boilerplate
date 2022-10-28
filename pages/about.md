@@ -1,6 +1,8 @@
 ---
 title: About Andrew
-metaDescription: You can learn more about Andrew Weisbeck and his life philosophy here as well as check out what he used to create this awesome blog site!
+metaDescription: You can learn more about Andrew Weisbeck and his life
+  philosophy here as well as check out what he used to create this awesome blog
+  site!
 date: 2022-10-16T07:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
@@ -19,3 +21,6 @@ This website was created with love and and care, using the [Eleventy static site
 
 I've gotta give credit to [Dan Urbanowicz](https://github.com/danurbanowicz/) for the simple boilerplate he provided to get me started with an easy to use layout and already integrated Netlify CMS - which makes my life SOOOO much easier. Thank you Dan! Go visit his repository page and star the shit [out of this repo](https://github.com/danurbanowicz/eleventy-netlify-boilerplate).
 
+## H﻿ere is a list of some of my other blogs and websites I've created:
+
+* [G﻿eauxWeisbeck4.dev](<https://G﻿eauxWeisbeck4.dev>)
