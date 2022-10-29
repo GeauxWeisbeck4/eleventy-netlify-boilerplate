@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: #E8FDF5;
 }
 
 *, *:before, *:after {
@@ -81,7 +81,7 @@ pre {
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
-	font-size: 2em;
+	font-size: 1em;
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
@@ -114,6 +114,7 @@ header nav li a[href]:not(:hover) {
 header nav li a[data-current="current item"] {
 	background-color: white;
 }
+
 
 /* Posts List */
 article {
